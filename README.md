@@ -1,4 +1,4 @@
-# lesson9
+# NFT for lida
 
 ## Project structure
 
